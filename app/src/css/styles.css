@@ -1,0 +1,26 @@
+.bb-logo, .react-logo {
+    max-height: 40px;
+}
+
+.bb-header {
+    display: grid;
+    grid-template-columns: 300px auto;
+    align-items: center;
+}
+
+.react-component-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.react-component-header span {
+    margin-left: 10px;
+}
+.react-component-container {
+    border: 2px SOLID #d3d3d3;
+    min-height: 300px;
+    margin: 20px 6px 20px 6px;
+    padding: 4px;
+
+}

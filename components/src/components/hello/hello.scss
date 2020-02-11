@@ -1,0 +1,9 @@
+.hello-container {
+    display: grid;
+    grid-template-rows: 40px auto;
+    justify-items: center;
+
+    img, video {
+        max-width: 300px;
+    }
+}
