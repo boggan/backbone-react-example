@@ -28,7 +28,7 @@ or using webpack directly using:
 
 ## Loading
 
-put the the content of this folder in a web server and visit the root of the app folder
+put the the content of this folder in a web server and visit the root of the app folder (ie: http://localhost/backbone-react-example/app/)
 
 ## Post Installation Notes
 

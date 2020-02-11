@@ -11,4 +11,3 @@ class Loader {
 }
 
 export default new Loader();
-export const bobo = "strFromLoader";
